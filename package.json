@@ -1,0 +1,17 @@
+{
+  "name": "expd3sonar",
+  "version": "1.0.0",
+  "description": "Sonar Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.7.3",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
